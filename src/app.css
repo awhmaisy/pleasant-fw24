@@ -65,12 +65,6 @@ body hr::before {
     margin-right: 10px; /* Space between symbols and hr */
 }
 
-body hr::after {
-    content: "✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦"; /* Add symbols after the hr */
-    display: inline-block; /* Make it inline */
-    margin-left: 10px; /* Space between symbols and hr */
-}
-
 body p:not(:nth-child(2)) {
     margin-top: 30px;
 }
