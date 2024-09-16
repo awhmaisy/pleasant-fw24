@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'AkkuratMono';
+    src: url('../src/fonts/AkkuratMono.woff2') format('woff2'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  body {
+    font-size: 13px;
+    width: 600px;
+    margin: auto;
+    margin-top: 20vh;
+    font-family: 'AkkuratMono', monospace, sans-serif;
+    margin-bottom: 20vh;
+    line-height: 1.25em;
+    color: white; /* Default text color */
+    position: relative;
+}
+
+body #arona {
+    position: absolute;
+    right: 0px;
+    top: -150px;
+}
+
+body #text {
+    position: absolute;
+    right: -2px;
+    top: 110px;
+    z-index: 1;
+    width: 500px;
+    line-height: 5px;
+    font-size: 8px;
+    overflow-wrap: break-word;
+}
+
+body main {
+    position: relative;
+    z-index: 2;
+}
+
+body a {
+    color: #EA9AE5;
+}
+
+body .thread {
+    color: #EA9AE5;
+    text-decoration: none;
+}
+
+body .thread:hover {
+    text-decoration: underline;
+}
+
+body hr {
+    border: none; /* Remove the border */
+    text-align: center; /* Center the text */
+    color: white; /* Set color for the symbols */
+    content: "✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦"; /* Add the symbols as content */
+}
+
+body hr::before {
+    content: "✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦"; /* Add symbols before the hr */
+    display: inline-block; /* Make it inline */
+    margin-right: 10px; /* Space between symbols and hr */
+}
+
+body hr::after {
+    content: "✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦"; /* Add symbols after the hr */
+    display: inline-block; /* Make it inline */
+    margin-left: 10px; /* Space between symbols and hr */
+}
+
+body p:not(:nth-child(2)) {
+    margin-top: 30px;
+}
+
+body p:nth-child(2) {
+    margin-top: 0px;
+}
+
+body h3:first-child {
+    margin-bottom: 5px;
+}
+
+body h4 {
+    margin-top: 30px;
+}
+
+body h5 {
+    margin: 0px;
+    font-weight: 100;
+}
+
+@media only screen and (max-width: 650px) {
+    body {
+        width: 90vw !important;
+    }
+
+    #arona {
+        display: none;
+    }
+
+    #text {
+        display: none;
+    }
+}
+
+body ul, body ol {
+    list-style: none;
+    padding-left: 0;
+}
+
+body li::before {
+    content: "> ";
+}
+
+:root {
+    --background-color: black;
+    --text-color: white;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  /* light mooooodeeee */
+.light-mode {
+   --background-color: white;
+   --text-color: black;
+}
+  
+.light-mode body hr {
+   color: black;
+}
+
+.light-mode body li::before {
+    color: black;
+  }
