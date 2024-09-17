@@ -20,19 +20,22 @@
             >currently, on paragraph</a
         >
     </li>
-    <li>
-        <a href="https://awhmaisy.cargo.site" target="_blank"
-            >previously, right here</a
-        >
-    </li>
 </ul>
-<p>and embed myself into music genres </p>
+<p>and embed myself into music genres</p>
 <ul>
     <li>
-        on <a href="https://open.spotify.com/user/msf84l3xh0uyy5vvf1nn0idon?si=0c35b2db8e264064" target="_blank">spotify</a>
+        on <a
+            href="https://open.spotify.com/user/msf84l3xh0uyy5vvf1nn0idon?si=0c35b2db8e264064"
+            target="_blank">spotify</a
+        >
     </li>
     <li>
-        and <a href="https://soundcloud.com/awhmaisy" target="_blank">soundcloud</a>
+        on <a href="https://factory.fm/u/meow" target="_blank">factory.fm</a>
+    </li>
+    <li>
+        and <a href="https://soundcloud.com/awhmaisy" target="_blank"
+            >soundcloud</a
+        >
     </li>
 </ul>
 <p>and collect images</p>
@@ -50,12 +53,12 @@
         >
     </li>
     <li>
-        & on cosmos <a href="https://www.cosmos.so/maisy" target="_blank"
+        and cosmos <a href="https://www.cosmos.so/maisy" target="_blank"
             >@maisy</a
         >
     </li>
 </ul>
 <p>
-    and a lil fun fact, my name is mei higashi :) maisy jay is my stage
-    name and clearly in my username; people began to call me maisy since many of my interactions are offline :0 i don't have a preference!
+    && lil fun fact, my name is mei higashi :) maisy jay is my stage name and
+    primary handle; so peepl began to call me maisy :0 no preference!
 </p>

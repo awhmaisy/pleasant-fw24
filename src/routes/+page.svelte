@@ -3,7 +3,8 @@
 <meta name="description" content="aura evangelist ( ᵘ ᵕ ᵘ ⁎)" />
 <title>maisyland</title>
 <h3>maisy</h3>
-<a href="mailto:maisy@cyberangels.ai">maisy@cyberangels.ai</a> / <a href="mailto:mei.higashi@usc.edu">mei.higashi@usc.edu</a>
+<a href="mailto:maisy@cyberangels.ai">maisy@cyberangels.ai</a> /
+<a href="mailto:mei.higashi@usc.edu">mei.higashi@usc.edu</a>
 <br />
 x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
@@ -13,10 +14,11 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
     relational engineering and cult building. high-focus on distributed phygital
     hardware in web3 and L2 applications in the creator economy (#sadge)
     <br /><br />
-    youtube was my origin in social networking, which kicked off when i was lil.
-    a decade later, i cultivated audiences on tiktok, instagram, and discord (aggregate
-    400k+) with focus on education / metaphysics / quantum jumping mechanics / imitating
-    physical experiences through scripting.
+    youtube was my origin in media, but my favorite content experiments played with
+    study aesthetics, metaphysics, quantum mechanics and reality scripting.
+    <br /><br />
+    i do believe that marketing / smm / blah blah can cultivate evangelism on a psychological
+    level. very interested to see how my theorizations may evolve.
     <br /><br />
     nowadays you can find me configuring a degree at
     <a href="https://iovine-young.usc.edu/" target="_blank">
@@ -31,10 +33,10 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <h3>pieces</h3>
 <ul>
     <li>
-        <a href="/blog/sept">sept</a>    
+        <a href="/blog/sept">sept</a>
     </li>
     <li>
-        <a href="/blog/oct">oct</a>    
+        <a href="/blog/oct">oct</a>
     </li>
 </ul>
 <br />
