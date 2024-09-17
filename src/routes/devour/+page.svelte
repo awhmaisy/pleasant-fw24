@@ -20,6 +20,9 @@
         <li>
             <a href="https://vx-underground.org">new find</a> & bonus points if you read <a href="https://samples.vx-underground.org/Microblog/2022-12-04%20-%20About%20malware%20writing%20and%20how%20to%20start.html">part 4's pyramid.</a>
         </li>
+        <li>
+            <a href="https://zora.co/writings/sparks">✧ is a new unit of ethereum</a>
+        </li>
     </ul>
     <p>
         sometime consumer social enjooyer :D
