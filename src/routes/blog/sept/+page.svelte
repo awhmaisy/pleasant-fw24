@@ -118,7 +118,7 @@
         finally being a real college student and eating instant noodles
     </li>
     <li>
-        tincarbell tamago pant
+        tincarbell tamago pan
     </li>
 </ul>
 <p>
