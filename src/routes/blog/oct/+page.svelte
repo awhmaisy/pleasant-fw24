@@ -71,6 +71,27 @@
     </figcaption>
 </figure>
 
+<h2>
+    new songs that i have been enjoying (or revisiting)
+</h2>
+<ul>
+    <li>
+        arm's length by mallrat (tell me true, what am i to you?)
+    </li>
+    <li>
+        good stuff by bnny
+    </li>
+    <li>
+        i finally understand by charli xcx
+    </li>
+    <li>
+        undo u (4x4 mix) by ninajirachi
+    </li>
+    <li>
+        image by magdalena bay
+    </li>
+</ul>
+
 <figure style="margin: 0;">
     <img
         src="/images/blog/oct/truffle.jpg"
