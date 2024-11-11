@@ -3,29 +3,43 @@
 <meta name="description" content="aura evangelist ( ᵘ ᵕ ᵘ ⁎)" />
 <title>maisyland</title>
 <h3>maisy</h3>
-<a href="mailto:maisy@cyberangels.ai">maisy@cyberangels.ai</a> /
 <a href="mailto:mei.higashi@usc.edu">mei.higashi@usc.edu</a>
 <br />
 x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
 <p></p>
 <p>
-    hallo! i’m an ex-social media producer + manager, with expertise in
-    relational engineering and cult building. high-focus on distributed phygital
-    hardware in web3 and L2 applications in the creator economy (#sadge)
+    hai! i’m an ex-social media producer + manager, with expertise in relational
+    engineering and cult building. high-focus on distributed phygital hardware
+    in web3 and L2 applications in the creator economy (#sadge) 
     <br /><br />
-    youtube was my origin in media, but my favorite content experiments played with
-    study aesthetics, metaphysics, quantum mechanics and reality scripting.
-    <br /><br />
-    i do believe that marketing / smm / blah blah can cultivate evangelism on a psychological
-    level. very interested to see how my theorizations may evolve.
-    <br /><br />
-    nowadays you can find me configuring a degree at
-    <a href="https://iovine-young.usc.edu/" target="_blank">
-        dr. dre’s iovine and young academy
+    i dropped out of
+    3rd grade to research nanotechnology applications in oncology at 
+    <a href="https://tdg.ucla.edu/" target="_blank">
+        ucla BSC
     </a>
-    + building entrepreneurial covenants within my social circles. i’m in training
-    to transform technicals + creatives into businesses.
+    and product/graphic design at 
+    <a href="https://www.artcenter.edu/" target="_blank">
+        art center college of design.
+    </a>
+    i wanted a locker and went to public high school.. got bored, played around with 400k+ on
+    tiktok, and cofounded an audiotechnical hardware company. 
+    <br /><br />
+    also been configuring a degree && building covenants within my social circles at usc’s
+    <a href="https://iovine-young.usc.edu/" target="_blank">
+        iovine and young academy
+    </a>
+    for a year. i’m in training to transform technical + creative engergies into businesses! 
+    <br /><br />
+    hahahhaa plot twist… i’m leaving to build
+    defense hard + software, among other things i’m yet to uncover. oh, and i’m
+    crafting apparel to add to the intriguing effect of your laptop stickers. pm
+    me if you’d like a 1-of-1 or if your startup needs cult merch. 
+    <br /><br />
+    i do believe that marketing / smm / universe creation can cultivate evangelism on a
+    psychological level. i'm a proponent of new-age publicity tactics. very
+    interested to see how my theorizations may evolve deeper into quantum
+    mechanics and reality scripting.
 </p>
 <br />
 <hr />
