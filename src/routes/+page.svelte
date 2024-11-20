@@ -3,7 +3,7 @@
 <meta name="description" content="aura evangelist ( ᵘ ᵕ ᵘ ⁎)" />
 <title>maisyland</title>
 <h3>maisy</h3>
-<a href="mailto:mei.higashi@usc.edu">mei.higashi@usc.edu</a>
+<a href="mailto:mei@softwear.fund">mei@softwear.fund</a>
 <br />
 x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
