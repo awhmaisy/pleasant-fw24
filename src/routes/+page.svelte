@@ -45,14 +45,9 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <hr />
 <br />
 <h3>pieces</h3>
-<ul>
-    <li>
-        <a href="/blog/sept">sept</a>
-    </li>
-    <li>
-        <a href="/blog/oct">oct</a>
-    </li>
-</ul>
+<p>
+    time will tell
+</p>
 <br />
 <hr />
 <br />
