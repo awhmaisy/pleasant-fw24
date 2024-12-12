@@ -11,9 +11,9 @@
     <a href="/">hai</a>
     <a href="/devour">devour</a>
     <a href="/linky">linky</a>
-    <a href="#" on:click|preventDefault={toggleTheme}>
+    <button class="nav-link" on:click={toggleTheme}>
         {isLightMode ? '電気消して！' : '電気つけて！'}
-    </a>
+    </button>
 </nav>
 
 <!-- 
@@ -29,12 +29,19 @@
       align-items: center;
       margin: 10px 0;
     }
-    a {
+    a, .nav-link {
         color: #ea9ae5; 
         text-decoration: none;
         word-wrap: break-word;
         text-align: center;
         font-size: 13px;
         margin: 0 10px;
+    }
+
+    .nav-link {
+        background: none;
+        border: none;
+        padding: 0;
+        cursor: pointer;
     }
     </style>

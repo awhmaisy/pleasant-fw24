@@ -20,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"0g": "^0.4.2"
+		"@sveltejs/adapter-vercel": "^5.5.2",
+		"0g": "^0.0.9"
 	}
 }
