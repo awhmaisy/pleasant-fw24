@@ -55,12 +55,6 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <ul>
     <li>reading papers <em>#drool</em></li>
     <li>still learning lil programming</li>
-    <li>
-        selecting textile samples for <a
-            href="https://x.com/i/communities/1830091484231770285"
-            >cyberangels</a
-        >
-    </li>
     <li>f#cking up a shopify backend :3</li>
     <li>tooling for a commerical hardware proj</li>
     <li>always doing diligence on smt stealthy</li>
