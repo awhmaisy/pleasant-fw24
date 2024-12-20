@@ -59,3 +59,12 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
     <li>tooling for a commerical hardware proj</li>
     <li>always doing diligence on smt stealthy</li>
 </ul>
+
+mei listens to this while she is creating
+<iframe src="https://open.spotify.com/embed/playlist/3VZNYPZYH4mTRxRu4Mf3DI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius: 15px"></iframe>
+
+mei listens to this while she is coding
+<iframe src="https://open.spotify.com/embed/playlist/3le3C5TQUl5Z7Tg9yZrD8z?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius: 15px"></iframe>
+
+mei listens to this while she is existing
+<iframe src="https://open.spotify.com/embed/playlist/0zrSTc3r3O8eDasFauzT9o?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius: 15px"></iframe>
