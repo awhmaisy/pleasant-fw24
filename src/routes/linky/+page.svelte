@@ -1,8 +1,8 @@
 <title> all of my links ^_^ </title>
 <p>
     the best way to reach me is via email: <a
-        href="mailto:mjhigash@usc.edu"
-        target="_blank">mei.higashi@usc.edu</a
+        href="mailto:mei@softwear.fund"
+        target="_blank">mei@softwear.fund</a
     >
 </p>
 <p>
@@ -16,8 +16,8 @@
 <p>i do like to write</p>
 <ul>
     <li>
-        <a href="https://paragraph.xyz/@maisy" target="_blank"
-            >currently, on paragraph</a
+        <a href="https://awhmaisy.substack.com/" target="_blank"
+            >currently, on substack (temp)</a
         >
     </li>
 </ul>
@@ -44,16 +44,24 @@
         on are.na <a href="https://are.na/maisy" target="_blank">@maisy</a>
     </li>
     <li>
-        on zora <a href="https://www.zora.co/maisy" target="_blank">@maisy</a>
-    </li>
-    <li>
         on pinterest <a
             href="https://www.pinterest.com/awhmaisy"
             target="_blank">@awhmaisy</a
         >
     </li>
     <li>
-        and cosmos <a href="https://www.cosmos.so/maisy" target="_blank"
+        on cosmos <a href="https://www.cosmos.so/maisy" target="_blank"
+            >@maisy</a
+        >
+    </li>
+    <li>
+        and a lil on zora <a href="https://www.zora.co/maisy" target="_blank">@maisy</a>
+    </li>
+</ul>
+<p>and ive recently begun to collect links</p>
+<ul>
+    <li>
+        on pinboard <a href="https://pinboard.in/u:maisy" target="_blank"
             >@maisy</a
         >
     </li>

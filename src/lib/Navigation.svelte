@@ -9,7 +9,7 @@
   
 <nav>
     <a href="/">hai</a>
-    <a href="/devour">devour</a>
+    <!-- <a href="/devour">devour</a> -->
     <a href="/linky">linky</a>
     <button class="nav-link" on:click={toggleTheme}>
         {isLightMode ? '電気消して！' : '電気つけて！'}
