@@ -9,7 +9,7 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
 <p></p>
 <p>
-    hai! i’m an ex-social media producer + manager, with expertise in relational
+    mexhai! i’m an ex-social media producer + manager, with expertise in relational
     engineering and cult building. high-focus on distributed phygital hardware
     in web3 and L2 applications in the creator economy (#sadge) 
     <br /><br />
