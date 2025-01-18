@@ -9,7 +9,7 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <br />
 <p></p>
 <p>
-    mexhai! i’m an ex-social media producer + manager, with expertise in relational
+    hi! i’m an ex-social media producer + manager, with expertise in relational
     engineering and cult building. high-focus on distributed phygital hardware
     in web3 and L2 applications in the creator economy (#sadge) 
     <br /><br />
@@ -31,11 +31,6 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
     </a>
     for a year. i’m in training to transform technical + creative engergies into businesses! 
     <br /><br />
-    hahahhaa plot twist… i’m leaving to build
-    defense hard + software, among other things i’m yet to uncover. oh, and i’m
-    crafting apparel to add to the intriguing effect of your laptop stickers. pm
-    me if you’d like a 1-of-1 or if your startup needs cult merch. 
-    <br /><br />
     i do believe that marketing / smm / universe creation can cultivate evangelism on a
     psychological level. i'm a proponent of new-age publicity tactics. very
     interested to see how my theorizations may evolve deeper into quantum
@@ -43,4 +38,14 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 </p>
 <br />
 <hr />
+<h3>current fascinations</h3>
+<ul>
+    <li>various methods ofpunitive deterrence</li>
+    <li>corpo manifestos</li>
+    <li><a href="https://pm-c2.vercel.app/">metallurgy</a>, particularly in pretty objects but also in machinery</li>
+    <li>engine propulsion, esp mach mach mach</li>
+    <li>cognition judgement in context of military acuity</li>
+    <li>tax and standard ground laws</li>
+</ul>
 <br />
+<hr />
