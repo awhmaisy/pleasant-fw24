@@ -11,38 +11,45 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <p>
     hi! i’m an ex-social media producer + manager, with expertise in relational
     engineering and cult building. high-focus on distributed phygital hardware
-    in web3 and L2 applications in the creator economy (#sadge) 
+    in web3 and L2 applications in the creator economy (#sadge)
     <br /><br />
-    i dropped out of
-    3rd grade to research nanotechnology applications in oncology at 
-    <a href="https://tdg.ucla.edu/" target="_blank">
-        ucla BSC
-    </a>
-    and product/graphic design at 
-    <a href="https://www.artcenter.edu/" target="_blank">
-        art center college of design.
-    </a>
-    i wanted a locker and went to public high school.. got bored, played around with 400k+ on
-    tiktok, and cofounded an audiotechnical hardware company. 
+    i dropped out of 3rd grade to research nanotech applications in oncology at
+    <a href="https://tdg.ucla.edu/" target="_blank"> ucla BSC </a>
+    and the fun of product/graphic design at
+    <a href="https://www.artcenter.edu/" target="_blank"> ACCD. </a>
+    i wanted a locker and went to public high school.. got bored, sniped ogu's, played
+    around with 400k+ on tiktok and an audiotechnical hardware company.
     <br /><br />
-    also been configuring a degree && building covenants within my social circles at usc’s
+    i've been configuring a degree && building covenants at usc’s
     <a href="https://iovine-young.usc.edu/" target="_blank">
-        iovine and young academy
+        iovine and young academy,
     </a>
-    for a year. i’m in training to transform technical + creative engergies into businesses! 
-    <br /><br />
-    i do believe that marketing / smm / universe creation can cultivate evangelism on a
-    psychological level. i'm a proponent of new-age publicity tactics. very
-    interested to see how my theorizations may evolve deeper into quantum
-    mechanics and reality scripting.
+    though my interests have shifted. you'll see.
 </p>
+<br />
+<hr />
+<h3>find me across the manifold</h3>
+<ul>
+    <li><a href="https://x.com/awhmaisy">x</a></li>
+    <li>
+        <a
+            href="https://open.spotify.com/user/msf84l3xh0uyy5vvf1nn0idon?si=f911a45cc0394a72"
+            >spotify</a
+        >
+    </li>
+    <li><a href="https://www.are.na/maisy">are.na</a></li>
+</ul>
 <br />
 <hr />
 <h3>current fascinations</h3>
 <ul>
-    <li>various methods ofpunitive deterrence</li>
+    <li>various methods of punitive deterrence</li>
+    <li>apparel deconstructionism and a spring clothing collection</li>
     <li>corpo manifestos</li>
-    <li><a href="https://pm-c2.vercel.app/">metallurgy</a>, particularly in pretty objects but also in machinery</li>
+    <li>
+        <a href="https://pm-c2.vercel.app/">metallurgy</a>, particularly in
+        pretty objects, also in machinery
+    </li>
     <li>engine propulsion, esp mach mach mach</li>
     <li>cognition judgement in context of military acuity</li>
     <li>tax and standard ground laws</li>
