@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'AkkuratMono';
-    src: url('../src/fonts/AkkuratMono.woff2') format('woff2'); 
+    font-family: 'MSGothic';
+    src: url('../src/fonts/MS Gothic Font.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
   }
@@ -10,7 +10,7 @@
     width: 600px;
     margin: auto;
     margin-top: 20vh;
-    font-family: 'AkkuratMono', monospace, sans-serif;
+    font-family: 'MSGothic', monospace, sans-serif;
     margin-bottom: 20vh;
     line-height: 1.25em;
     color: white; /* Default text color */
