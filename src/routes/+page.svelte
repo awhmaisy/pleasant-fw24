@@ -10,22 +10,18 @@ x.com/<a href="https://x.com/awhmaisy">awhmaisy</a>
 <p></p>
 <p>
     hi! i’m an ex-social media producer + manager, with expertise in relational
+    hi! i’m an ex-social media producer + manager, with expertise in relational
     engineering and cult building. high-focus on distributed phygital hardware
-    in web3 and L2 applications in the creator economy (#sadge) 
+    in web3 and L2 applications in the creator economy (#sadge)
     <br /><br />
-    i dropped out of
-    3rd grade to research nanotechnology applications in oncology at 
-    <a href="https://tdg.ucla.edu/" target="_blank">
-        ucla BSC
-    </a>
-    and product/graphic design at 
-    <a href="https://www.artcenter.edu/" target="_blank">
-        art center college of design.
-    </a>
-    i wanted a locker and went to public high school.. got bored, played around with 400k+ on
-    tiktok, and cofounded an audiotechnical hardware company. 
+    i dropped out of 3rd grade to research nanotech applications in oncology at
+    <a href="https://tdg.ucla.edu/" target="_blank"> ucla BSC </a>
+    and the fun of product/graphic design at
+    <a href="https://www.artcenter.edu/" target="_blank"> ACCD. </a>
+    i wanted a locker and went to public high school.. got bored, sniped ogu's, played
+    around with 400k+ on tiktok and an audiotechnical hardware company.
     <br /><br />
-    also been configuring a degree && building covenants within my social circles at usc’s
+    i've been configuring a degree && building covenants at usc’s
     <a href="https://iovine-young.usc.edu/" target="_blank">
         iovine and young academy
     </a>
