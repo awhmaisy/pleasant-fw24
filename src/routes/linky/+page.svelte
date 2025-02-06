@@ -1,8 +1,8 @@
 <title> all of my links ^_^ </title>
 <p>
-    the best way to reach me is via email: <a
-        href="mailto:mei@softwear.fund"
-        target="_blank">mei@softwear.fund</a
+    the best way to reach me is via pm or email: <a
+        href="mailto:m@mach012.com"
+        target="_blank">m@mach012.com</a
     >
 </p>
 <p>
@@ -10,7 +10,7 @@
         href="https://www.twitter.com/awhmaisy/"
         target="_blank">x</a
     >
-    and <a href="https://www.instagram.com/awhmaisy" target="_blank">insta.</a> i'd
+    and <a href="https://www.instagram.com/awhmaisy" target="_blank">instagram (ew).</a> i'd
     love to hear what you're building & learning as of late!
 </p>
 <p>i do like to write</p>
@@ -41,7 +41,7 @@
 <p>and collect images</p>
 <ul>
     <li>
-        on are.na <a href="https://are.na/maisy" target="_blank">@maisy</a>
+        on are.na <a href="https://are.na/mei-higashi" target="_blank">@mei-higashi</a>
     </li>
     <li>
         on pinterest <a
